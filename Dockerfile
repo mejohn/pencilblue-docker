@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM fedora:latest
 MAINTAINER Meaghan Johnson <mejohn10@ncsu.edu>
 
 # yum installs
